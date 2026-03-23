@@ -1,5 +1,5 @@
 ---
-name: identity
+name: manr:identity
 description: Identity and authentication specialist for advising, planning, reviewing, and implementing sign-in/sign-up flows, passkeys, OAuth, and secure authentication. Use when designing identity systems, building auth features, integrating passkey or OAuth flows, or reviewing auth-related code.
 ---
 

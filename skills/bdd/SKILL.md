@@ -1,5 +1,5 @@
 ---
-name: bdd
+name: manr:bdd
 description: Apply BDD/TDD methodology for writing tests and specifications. Use when writing tests, Gherkin scenarios, feature files, acceptance criteria, discussing test strategy, mocking patterns, or when the user mentions BDD, TDD, Given-When-Then, pytest, unittest, test coverage, or test-first development.
 ---
 

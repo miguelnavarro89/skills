@@ -1,5 +1,5 @@
 ---
-name: bunjs
+name: manr:bunjs
 description: Use Bun as runtime, package manager, bundler, and test runner. Use when running JS/TS with bun, installing packages with bun install, bundling with bun build, testing with bun test, or when user mentions Bun, bunfig.toml, or bun.lock.
 ---
 

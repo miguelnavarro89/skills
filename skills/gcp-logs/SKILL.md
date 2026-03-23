@@ -1,5 +1,5 @@
 ---
-name: gcp-logs
+name: manr:gcp-logs
 description: Query and analyze GCP logs using gcloud CLI across resource types (GKE, Cloud Run, GCE, Cloud Functions, App Engine). Use when investigating errors, debugging services, analyzing incidents, or searching operational logs in Google Cloud.
 ---
 

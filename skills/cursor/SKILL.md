@@ -1,5 +1,5 @@
 ---
-name: cursor
+name: manr:cursor
 description: Comprehensive guide for Cursor IDE setup, configuration, features, and troubleshooting. Use when assisting with Cursor installation, agent modes, context features, rules, skills, MCP servers, integrations, or diagnosing issues.
 ---
 

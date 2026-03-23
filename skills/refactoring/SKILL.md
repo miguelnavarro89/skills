@@ -1,5 +1,5 @@
 ---
-name: refactoring
+name: manr:refactoring
 description: Code refactoring specialist for analyzing code smells, applying refactoring techniques, and suggesting design patterns. Use when improving code quality, restructuring code, reviewing for maintainability, or hands-on refactoring implementations.
 ---
 

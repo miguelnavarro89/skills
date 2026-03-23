@@ -1,5 +1,5 @@
 ---
-name: tailwindcss
+name: manr:tailwindcss
 description: Install and configure Tailwind CSS v4 for Vite, PostCSS, or Next.js projects. Customize themes with @theme directive, set up dark mode, extend design tokens. Use when setting up Tailwind, configuring themes, adding custom colors/fonts/spacing, or when user mentions Tailwind installation, @theme, CSS variables, or design tokens.
 ---
 

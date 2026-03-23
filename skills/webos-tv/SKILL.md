@@ -1,5 +1,5 @@
 ---
-name: webos-tv
+name: manr:webos-tv
 description: Develop and deploy hosted web apps for LG webOS TV. Use when building TV apps, configuring appinfo.json, handling Magic Remote input, managing app lifecycle events, or deploying Next.js/web apps to webOS TV.
 ---
 

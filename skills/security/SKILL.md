@@ -1,5 +1,5 @@
 ---
-name: security
+name: manr:security
 description: Web security specialist for planning, advising, reviewing, and implementing security measures. Use when implementing features that handle sensitive data, building APIs, adding third-party dependencies, reviewing code for vulnerabilities (XSS, CSRF, injection, etc.), or hands-on hardening of applications.
 ---
 

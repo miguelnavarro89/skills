@@ -1,5 +1,5 @@
 ---
-name: nextjs
+name: manr:nextjs
 description: Build Next.js 16 applications with App Router, Server/Client Components, data fetching, caching, and routing. Use when creating Next.js projects, pages, layouts, route handlers, server actions, or when asking about App Router patterns, RSC, streaming, or caching strategies.
 ---
 

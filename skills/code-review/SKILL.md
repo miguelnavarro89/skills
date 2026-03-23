@@ -1,5 +1,5 @@
 ---
-name: code-review
+name: manr:code-review
 description: Perform structured code reviews on local changes or remote PRs. Analyzes correctness, security, performance, maintainability, and more. Supports goal-oriented reviews when a plan/spec is provided. Use when reviewing code, PRs, diffs, or when the user mentions code review, review this, or review PR.
 ---
 

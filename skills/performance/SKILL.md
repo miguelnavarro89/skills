@@ -1,5 +1,5 @@
 ---
-name: performance
+name: manr:performance
 description: Web performance specialist for planning, advising, reviewing, and implementing performance optimizations. Use when building UI components, optimizing pages, debugging slow performance, improving LCP/CLS/INP metrics, or applying hands-on performance fixes.
 ---
 

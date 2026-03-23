@@ -1,5 +1,5 @@
 ---
-name: bug-triage
+name: manr:bug-triage
 description: "Classify, prioritize, and structure bug reports into actionable triage summaries. Use when a bug report is ambiguous, incomplete, or needs severity assessment. Triggers on: error logs, stack traces, 'something is broken', bug reports missing repro steps, severity disputes, or any unstructured failure signal. Produces a structured triage block with severity, blast radius, reproducibility, and next steps. Complements triage-issue (Jira operations) by handling the assessment layer."
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: accessibility
+name: manr:accessibility
 description: Accessibility specialist for WCAG compliance, semantic HTML, ARIA usage, keyboard navigation, color contrast, and screen reader support. Use when advising on accessible patterns, planning UI features, reviewing components for accessibility, or implementing accessible code and fixes.
 ---
 

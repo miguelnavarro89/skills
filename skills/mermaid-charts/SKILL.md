@@ -1,5 +1,5 @@
 ---
-name: mermaid-charts
+name: manr:mermaid-charts
 description: Write accurate Mermaid charts by understanding critical syntax rules and selecting the appropriate chart type for your visualization needs. Use when creating or reviewing flowcharts, sequence diagrams, class diagrams, state machines, ER diagrams, Gantt charts, or any of 24+ diagram types. Includes syntax pitfalls, chart selection guide, and links to official documentation.
 ---
 

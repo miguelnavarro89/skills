@@ -1,5 +1,5 @@
 ---
-name: opencode
+name: manr:opencode
 description: Setup, configure, and use OpenCode CLI tool - installation, providers, agents, tools, permissions, models, and troubleshooting. Use when working with OpenCode, opencode.json config, AGENTS.md, or when user mentions opencode, oc, TUI, or asks about AI terminal coding tools.
 ---
 

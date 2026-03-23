@@ -1,5 +1,5 @@
 ---
-name: art-to-web-analysis
+name: manr:art-to-web-analysis
 description: Analyze visual art, mockups, and designs (images/videos) to produce pixel-perfect web implementation specs. Use when converting design artwork to CSS/HTML specifications, reverse-engineering visual interfaces, or creating implementation specs from screenshots or design files.
 ---
 

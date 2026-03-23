@@ -1,5 +1,5 @@
 ---
-name: astro-framework
+name: manr:astro-framework
 description: Build Astro websites using components, pages, layouts, content collections, routing, SSR, View Transitions, and integrations. Use when creating Astro projects, .astro files, content collections, server islands, actions, or when asking about Astro patterns, Islands Architecture, or static site generation.
 ---
 
